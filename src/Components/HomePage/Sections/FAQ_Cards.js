@@ -25,7 +25,7 @@ function FAQCard(props) {
         <Row>
           <Col>
             <div className={`${open ? styles.answeropen : styles.answer}`}>
-              {props.item.answer}
+              {props.item.answer} 
             </div>
           </Col>
         </Row>
