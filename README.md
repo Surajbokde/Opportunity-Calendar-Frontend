@@ -1,6 +1,8 @@
 ![](https://github.com/Girl-Code-It/Opportunity-Calendar-Backend/raw/master/assets/oppcal.png)
 
-## Opportunity  Calendar
+## Opportunity     
+
+Calendar
 
 Opportunity Calendar is the one-stop place to refer important opportunites available in tech-space like newly posted jobs, internships, hackathons, tech-conferences, scholarhsips etc.
 
